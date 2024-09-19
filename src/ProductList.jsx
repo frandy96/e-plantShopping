@@ -257,6 +257,7 @@ const handlePlantsClick = (e) => {
      [product.name]: true, // Set the product name as key and value as true to indicate it's added to cart
    }));
 };
+
     return (
         <div>
              <div className="navbar" style={styleObj}>
